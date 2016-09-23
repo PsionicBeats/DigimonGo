@@ -9,3 +9,39 @@ h3 {
 footer {
 	color: #4A4A4A;
 }
+
+p {
+	font-family: 'Lato', sans-serif;
+
+}
+
+div.container_2 {
+	width: 500px;
+	height: auto;
+	margin:30px auto;
+	clear: both;
+	float: center bottom;
+	box-sizing: border-box;
+}
+
+.list_1 ol li {
+	font-family: 'Lato', sans-serif;
+}
+
+.list_2 ol li {
+	font-family: 'Lato', sans-serif;
+}
+
+.list_3 ol li {
+	font-family: 'Lato', sans-serif;
+}
+
+body header nav ul li {
+	float:right;
+	list-style: none;
+}
+
+.description {
+	background-color: #0E588D;
+	background-image:url('../assets/hero.png');
+}
