@@ -1,12 +1,12 @@
 header h1 {
-	font-family:;
+	font-family:'sarpanch';
 }
 
 h3 {
 	color: #0E588D;
 }
 
-footer {
+footer h6 {
 	color: #4A4A4A;
 }
 
@@ -15,7 +15,7 @@ p {
 
 }
 
-div.container_2 {
+.container_2 {
 	width: 500px;
 	height: auto;
 	margin:30px auto;
@@ -41,7 +41,23 @@ body header nav ul li {
 	list-style: none;
 }
 
+nav ul li{
+	font-size: 25px;
+	padding: 10px;
+}
+
 .description {
 	background-color: #0E588D;
 	background-image:url('../assets/hero.png');
+	background-repeat: no-repeat;
+	height: 433px;
+	width: 100%;
+	float: left;
+}
+
+.description h3 p {
+	 width: 300px;
+   border: 25px solid green;
+   padding: 25px;
+   margin: 25px;
 }
